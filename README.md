@@ -1,6 +1,6 @@
 # ChatGPT ProBot
 
-[![Release Version](https://img.shields.io/github/release/oceanlvr/ChatGPTBot.svg)](https://github.com/openai-ae/ChatGPTBot/releases/latest) [![Twitter](https://img.shields.io/twitter/follow/seemon_tech?style=social)](https://twitter.com/seemon_tech)
+[![Release Version](https://img.shields.io/github/release/oceanlvr/ChatGPTBot.svg)](https://github.com/seemon/ChatGPTBot/releases/latest) [![Twitter](https://img.shields.io/twitter/follow/seemon_tech?style=social)](https://twitter.com/seemon_tech)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apps/chatgptbot) [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/openai-ae/ChatGPTBot)
 
@@ -12,9 +12,9 @@ Powered by [Probot](https://github.com/probot/probot) & [chatgpt-api](https://gi
 
 ## Usage
 
-**Try on [issue#1](https://github.com/openai-ae/ChatGPT-ProBot/issues/1)**
+**Try on [issue#1](https://github.com/seemon/ChatGPT-ProBot/issues/1)**
 
-**Try Review/Refactor on [PR#7](https://github.com/openai-ae/ChatGPT-ProBot/pull/7)**
+**Try Review/Refactor on [PR#7](https://github.com/seemon/ChatGPT-ProBot/pull/7)**
 
 | event       | description                       | example                                 |
 | ----------- | --------------------------------- | --------------------------------------- |
